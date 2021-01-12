@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{47D9625B-1681-4CF5-9815-49B16AED2E9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{EF503919-96AB-4292-B3C9-3043FADCB3D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{47D9625B-1681-4CF5-9815-49B16AED2E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47D9625B-1681-4CF5-9815-49B16AED2E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47D9625B-1681-4CF5-9815-49B16AED2E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF503919-96AB-4292-B3C9-3043FADCB3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF503919-96AB-4292-B3C9-3043FADCB3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF503919-96AB-4292-B3C9-3043FADCB3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF503919-96AB-4292-B3C9-3043FADCB3D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
